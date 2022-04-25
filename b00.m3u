@@ -210,7 +210,7 @@ http://111.40.196.38:80/PLTV/88888888/224/3221225526/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://111.40.196.36/PLTV/88888888/224/3221225545/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-https://livealone302.iqilu.com/iqilu/sdtv000.m3u8
+https://livealone302.iqilu.com/iqilu/sdtv0000.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://111.40.196.34:80/PLTV/88888888/224/3221225520/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
@@ -310,21 +310,21 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
 http://39.135.138.60:18890/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandong1.png" group-title="地方",山东齐鲁
-https://livealone302.iqilu.com/iqilu/qlpd000.m3u8
+https://livealone302.iqilu.com/iqilu/qlpd0000.m3u8
 #EXTINF:-1 tvg-id="1430" tvg-name="山东新闻" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandong4.png" group-title="地方",山东新闻
-https://livealone302.iqilu.com/iqilu/ggpd000.m3u8
+https://livealone302.iqilu.com/iqilu/ggpd0000.m3u8
 #EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandong3.png" group-title="地方",山东农科
-https://livealone302.iqilu.com/iqilu/nkpd000.m3u8
+https://livealone302.iqilu.com/iqilu/nkpd0000.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandong8.png" group-title="地方",山东生活
-https://livealone302.iqilu.com/iqilu/shpd000.m3u8
+https://livealone302.iqilu.com/iqilu/shpd0000.m3u8
 #EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandong2.png" group-title="地方",山东体育
-https://livealone302.iqilu.com/iqilu/typd000.m3u8
+https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 #EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandong7.png" group-title="地方",山东综艺
-https://livealone302.iqilu.com/iqilu/zypd000.m3u8
+https://livealone302.iqilu.com/iqilu/zypd0000.m3u8
 #EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandong5.png" group-title="地方",山东少儿
-https://livealone302.iqilu.com/iqilu/sepd000.m3u8
+https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 #EXTINF:-1 tvg-id="1432" tvg-name="山东文旅" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandong6.png" group-title="地方",山东文旅
-https://livealone302.iqilu.com/iqilu/yspd000.m3u8
+https://livealone302.iqilu.com/iqilu/yspd0000.m3u8
 #EXTINF:-1 tvg-id="1436" tvg-name="山东教育" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Shandongjy.png" group-title="地方",山东教育
 http://39.135.34.150:8080/000000001000/1000000002000004097/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="5331" tvg-name="日照新闻" tvg-logo="https://gitee.com/cnvera/tvlogo/raw/master/img/rzxwzh.png" group-title="地方",日照新闻
