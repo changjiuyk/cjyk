@@ -4,29 +4,37 @@ http://111.40.196.28:80/PLTV/88888888/224/3221225513/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV1.png" group-title="央视",CCTV-1综合
 http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV1.png" group-title="央视",CCTV-1综合
-http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8
+http://39.136.48.2:8089/PLTV/88888888/224/3221225859/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV2.png" group-title="央视",CCTV-2财经
 http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV2.png" group-title="央视",CCTV-2财经
 http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV2.png" group-title="央视",CCTV-2财经
+http://39.136.48.6:8089/PLTV/88888888/224/3221225751/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV3.png" group-title="央视",CCTV-3综艺
 http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV3.png" group-title="央视",CCTV-3综艺
 http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV3.png" group-title="央视",CCTV-3综艺
+http://39.136.48.5:8089/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV4.png" group-title="央视",CCTV-4中文国际
+http://39.136.48.5:8089/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV5.png" group-title="央视",CCTV-5体育
 http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV5.png" group-title="央视",CCTV-5体育
 http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV5.png" group-title="央视",CCTV-5体育
-http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
+http://39.136.48.7:8089/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV5plus.png" group-title="央视",CCTV-5+体育赛事
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV5plus.png" group-title="央视",CCTV-5+体育赛事
 http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV5plus.png" group-title="央视",CCTV-5+体育赛事
+http://39.136.48.2:8089/PLTV/88888888/224/3221225781/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV6.png" group-title="央视",CCTV-6电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV6.png" group-title="央视",CCTV-6电影
@@ -35,44 +43,64 @@ http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV7.png" group-title="央视",CCTV-7国防军事
+http://39.136.48.8:8089/PLTV/88888888/224/3221225753/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://111.40.196.34:80/PLTV/88888888/224/3221225565/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV8.png" group-title="央视",CCTV-8电视剧
+http://39.136.48.99:8089/PLTV/88888888/224/3221226429/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV-9记录" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV9.png" group-title="央视",CCTV-9纪录
 http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV-9记录" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV9.png" group-title="央视",CCTV-9纪录
 http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9记录" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV9.png" group-title="央视",CCTV-9纪录
+http://39.136.48.5:8089/PLTV/88888888/224/3221225759/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV10.png" group-title="央视",CCTV-10科教
 http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV10.png" group-title="央视",CCTV-10科教
 http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV10.png" group-title="央视",CCTV-10科教
+http://39.136.48.10:8089/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV11.png" group-title="央视",CCTV-11戏曲
 http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV11.png" group-title="央视",CCTV-11戏曲
 http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV11.png" group-title="央视",CCTV-11戏曲
+http://39.136.48.11:8089/PLTV/88888888/224/3221226407/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-12社会与法制" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV12.png" group-title="央视",CCTV-12社会与法制
 http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-12社会与法制" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV12.png" group-title="央视",CCTV-12社会与法制
 http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12社会与法制" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV12.png" group-title="央视",CCTV-12社会与法制
+http://39.136.48.2:8089/PLTV/88888888/224/3221225763/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV13.png" group-title="央视",CCTV-13新闻
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8?xtkg
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV13.png" group-title="央视",CCTV-13新闻
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV13.png" group-title="央视",CCTV-13新闻
+http://39.136.48.6:8089/PLTV/88888888/224/3221226328/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14少儿" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV14.png" group-title="央视",CCTV-14少儿
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14少儿" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV14.png" group-title="央视",CCTV-14少儿
 http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14少儿" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV14.png" group-title="央视",CCTV-14少儿
+http://39.136.48.8:8089/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV15.png" group-title="央视",CCTV-15音乐
 http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV15.png" group-title="央视",CCTV-15音乐
 http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV15.png" group-title="央视",CCTV-15音乐
+http://39.136.48.10:8089/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV-16奥林匹克" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV16.png" group-title="央视",CCTV-16奥林匹克
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农业农村" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农业农村" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农业农村" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV17.png" group-title="央视",CCTV-17农业农村
+http://39.136.48.2:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV4K.png" group-title="央视",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="CCTV8K" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CCTV8K.png" group-title="央视",CCTV8K
